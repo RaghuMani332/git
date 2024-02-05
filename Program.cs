@@ -5,8 +5,8 @@
       
         static void Main()
         {
-            int a, b = 99;
-            Console.WriteLine(" ");
+            int a=10, b = 99;
+            Console.WriteLine("result = "+a+b);
         }
     }
 }
