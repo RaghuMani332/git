@@ -2,11 +2,11 @@
 {
     class New
     {
-        int a, b;
-
+      
         static void Main()
         {
-
+            int a, b = 99;
+            Console.WriteLine(" ");
         }
     }
 }
